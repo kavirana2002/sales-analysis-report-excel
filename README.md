@@ -78,7 +78,7 @@ sales-analysis-report-excel/
 
 ## 📷 Dashboard Preview
 
-
+https://github.com/kavirana2002/sales-analysis-report-excel/blob/main/Screenshot%202026-05-31%20234937.png
 
 ---
 
