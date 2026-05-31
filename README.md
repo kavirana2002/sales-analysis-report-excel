@@ -55,13 +55,11 @@ To analyze sales data using Microsoft Excel and answer key business questions th
 ```
 sales-analysis-report-excel/
 │
-├── SalesAnalysisReport.xlsx         # Main Excel workbook (all sheets)
+├── project_data(1).xlsx         # Main Excel workbook (all sheets)
 ├── README.md                        # Project documentation
-├── data/
-│   └── sales_data.xlsx             # Dataset used in the project
 └── screenshots/
     ├── 01_dashboard.png            # Main Dashboard
-
+```
 ---
 
 ## 🚀 How to Use
